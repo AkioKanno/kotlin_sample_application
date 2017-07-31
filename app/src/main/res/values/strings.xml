@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="test_btn2">TEST BUTTON 02</string>
+    <string name="check_default">チェックしてください！</string>
+    <string name="check_on">チェックが入りました ( ^ ▽ ^ )</string>
+    <string name="check_off">チェックが外れました( ; _ ; )</string>
+    <string name="radio_btn1">ラベル①</string>
+    <string name="radio_btn2">ラベル②</string>
+    <string name="radio_btn3">ラベル③</string>
+
+</resources>
